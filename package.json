@@ -1,0 +1,24 @@
+{
+  "name": "mean-tutorial",
+  "version": "0.0.0",
+  "description": "Getting up and running with Node, Express, Jade and Mongo by Christpher Buecheler",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:growlybear/node-express-mongo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "jade",
+    "mongodb"
+  ],
+  "author": "Michael Allan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/growlybear/node-express-mongo/issues"
+  }
+}
