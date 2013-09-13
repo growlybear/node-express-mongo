@@ -20,5 +20,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/growlybear/node-express-mongo/issues"
+  },
+  "devDependencies": {
+    "express": "~3.4.0"
   }
 }
